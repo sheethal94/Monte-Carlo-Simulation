@@ -13,3 +13,11 @@ MSA file
 ### Output
 
 Confidence tree and consensus tree
+
+### Command to run this program 
+javac Phylip.java
+java Phylip
+
+#### Note
+MSASequence.java and Confidence.java should be placed under the same directory where this program 
+is being run.
