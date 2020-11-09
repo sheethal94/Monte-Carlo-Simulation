@@ -16,6 +16,7 @@ Confidence tree and consensus tree
 
 ### Command to run this program 
 javac Phylip.java
+
 java Phylip
 
 #### Note
